@@ -1,7 +1,7 @@
 {
   "mappings": [
-    "/content/xsc-xwalk-site/:/",
-    "/content/xsc-xwalk-site/metadata.json:/metadata.json",
-    "/content/xsc-xwalk-site/redirects.json:/redirects.json"
+    "/content/dsagar/EDS-xwalk-2024-8-21-20-6-7/:/",
+    "/content/dsagar/EDS-xwalk-2024-8-21-20-6-7/metadata.json:/metadata.json",
+    "/content/dsagar/EDS-xwalk-2024-8-21-20-6-7/redirects.json:/redirects.json"
   ]
 }
